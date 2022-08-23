@@ -14,7 +14,7 @@ const LeftMain = () => {
                 <a href="/contact">Contact</a>
             </nav>
             <div className="footer">
-                <button className='demo-btn' onClick={()=> {window.open("https://github.com/rahman351")}}><img src='/github.png' width="100px" alt='social' title='My Github Link'/></button>
+                <button className='git-link-btn' onClick={()=> {window.open("https://github.com/rahman351")}}><img src='/github.png' width="100px" alt='social' title='My Github Link'/></button>
             </div>
         </div>
     );

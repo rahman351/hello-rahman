@@ -30,3 +30,18 @@
    text-decoration: none;
     color:aqua;
 }
+
+.git-link-btn{
+    background-color: white;
+    padding:20px;
+    font-size:20px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+.git-link-btn:hover{
+    background-color: crimson;
+    color:white;
+}

@@ -1,11 +1,10 @@
 .project-container{
-    background-color: #061021;   
- 
-
+    /* background-color: #061021;    */
 }
 
 .project-top-container{
-    color:white;
+    /* color:white; */
+    color: #061021;
     margin:5%;
     font-size: 75px;
     font-weight:400;
@@ -16,12 +15,13 @@
 }
 
 .project-bottom-container{
-    color: white;
+    /* color: white; */
+    color: #061021;
 }
 
 .demo-btn{
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
     padding:20px;
     font-size:20px;
     border-radius: 20px;
@@ -36,8 +36,8 @@
 }
 
 .git-btn{
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
     padding:20px;
     font-size:20px;
     border-radius: 20px;
@@ -59,6 +59,7 @@
 }
 .single-project-container:hover{
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-color:#fffae3;
 }
 .single-project-right-container{
     font-size:24px;
