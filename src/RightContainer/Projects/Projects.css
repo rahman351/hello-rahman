@@ -1,0 +1,68 @@
+.project-container{
+    background-color: #061021;   
+ 
+
+}
+
+.project-top-container{
+    color:white;
+    margin:5%;
+    font-size: 75px;
+    font-weight:400;
+    font-family: 'Alfa Slab One';
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.project-bottom-container{
+    color: white;
+}
+
+.demo-btn{
+    background-color: white;
+    color: black;
+    padding:20px;
+    font-size:20px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+.demo-btn:hover{
+    background-color: crimson;
+    color:white;
+}
+
+.git-btn{
+    background-color: white;
+    color: black;
+    padding:20px;
+    font-size:20px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    margin-right:20px;
+}
+
+.git-btn:hover{
+    background-color: #4cad49;
+    color:white;
+}
+.single-project-container{
+    display: flex;
+    width:70%;
+    margin: 50px auto;
+    padding: 10px;
+}
+.single-project-container:hover{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.single-project-right-container{
+    font-size:24px;
+}
+.single-project-right-container p{
+    margin-top: 20px;
+}

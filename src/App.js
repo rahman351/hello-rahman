@@ -10,23 +10,23 @@ function App() {
   return (
     <Router>
       <div className="App">
-      <div className="main-container">
-        <LeftMain/>
-        <Switch>
-          <Route path="/about">
-            <About/>
-          </Route>
-          <Route path="/skills">
-            <Skills/>
-          </Route>
-          <Route path="/projects">
-            <Projects/>
-          </Route>
-          <Route path="/contact">
-            <Contact/>
-          </Route>
-        </Switch>
-      </div>
+        <div className="main-container">
+          <LeftMain/>
+          <Switch>
+            <Route path="/about">
+              <About/>
+            </Route>
+            <Route path="/skills">
+              <Skills/>
+            </Route>
+            <Route path="/projects">
+              <Projects/>
+            </Route>
+            <Route path="/contact">
+              <Contact/>
+            </Route>
+          </Switch>
+        </div>
     </div>
     </Router>
   );

@@ -5,9 +5,14 @@
     flex-direction: column;
     justify-content:space-evenly;
     align-items: center;
-    
-    
-
+}
+.left-main .name p{
+    font-family: 'Aboreto', cursive;
+    font-size:120px;
+}
+.left-main .name span{
+    color: crimson;
+    margin-left: 10px;
 }
 .navbar{
     display: flex;
