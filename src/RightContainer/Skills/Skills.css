@@ -1,0 +1,29 @@
+.skills-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  
+  
+   
+}
+
+.skills{
+    border: 5px solid black;
+  
+    width:450px;
+    height:600px;
+    border-radius: 25px;
+    
+}
+.skill-heading{
+    padding: 20px ;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Aboreto';
+    border-bottom: 5px solid black;
+}
+.skill-sub-heading{
+    padding: 10px;
+    line-height: 5rem;
+    font-size: 30px;
+}
