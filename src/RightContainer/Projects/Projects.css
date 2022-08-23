@@ -1,13 +1,8 @@
-.project-container{
-    /* background-color: #061021;    */
-}
-
 .project-top-container{
     /* color:white; */
     color: #061021;
     margin:5%;
-    font-size: 75px;
-    font-weight:400;
+    font-size: 50px;
     font-family: 'Alfa Slab One';
     text-align: center;
     width: 70%;
