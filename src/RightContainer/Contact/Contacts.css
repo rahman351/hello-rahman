@@ -1,0 +1,46 @@
+.contact-parent-container{
+    height: 100vh;
+    align-items: center;
+    display: flex;
+   
+}
+.contact-main{
+    margin:0px auto;
+
+}
+
+.contact-heading{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Alfa Slab One';
+    padding-top: 50px;
+}
+
+.contact-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.contact-box{
+    margin-top:20px;
+    margin-bottom: 20px;
+    display: flex; 
+    background-color: #fff1d1;
+    padding:10px;
+    border-radius: 3px;
+}
+.contact-box a{
+    text-decoration: none;
+    color:black;
+}
+
+.contact-box a:hover{
+    color: #010745; 
+}
+
+.contact-details{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    padding-left: 20px;
+}
