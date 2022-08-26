@@ -13,6 +13,8 @@
 .left-main .name span{
     color: crimson;
     margin-left: 10px;
+    font-size: 30px;
+    text-transform: uppercase;
 }
 .navbar{
     display: flex;
@@ -23,6 +25,8 @@
     line-height: 3em;
     text-decoration: none;
     color: white;
+    font-size: 25px;
+    font-family: 'Alfa Slab One';
     
     
 }
@@ -35,13 +39,13 @@
     background-color: white;
     padding:20px;
     font-size:20px;
-    border-radius: 20px;
+    border-radius: 50%;
     cursor: pointer;
     border: none;
     outline: none;
 }
 
 .git-link-btn:hover{
-    background-color: crimson;
+    background-color:grey;
     color:white;
 }
